@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/data structure.iml" filepath="$PROJECT_DIR$/.idea/data structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hash table/hash table.iml" filepath="$PROJECT_DIR$/hash table/hash table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linked list/linked list.iml" filepath="$PROJECT_DIR$/linked list/linked list.iml" />
     </modules>
   </component>
 </project>
